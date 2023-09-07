@@ -1,0 +1,17 @@
+.container{
+
+    padding: 50px;
+
+    justify-content: center;
+
+    display: flex;
+
+}
+
+ 
+
+.fill{
+
+    padding: 20px;
+
+}
